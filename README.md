@@ -30,4 +30,3 @@ To explore the dashboard:
 
 ---
 
-Let me know if you'd like to add a section for your dataset, project goals, or even deployment instructions. I can tailor it further to match your GitHub style or job application strategy.
